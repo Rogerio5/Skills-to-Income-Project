@@ -6,13 +6,9 @@
 ---
 
 # 🧭 Identificando suas Habilidades que Podem ser Remuneradas
-# 🧭 Identifying Your Monetizable Skills
 
 Este projeto ajuda a **mapear suas habilidades pessoais** e cruzá-las com as **necessidades do mercado**, mostrando caminhos de monetização possíveis.  
 A proposta é usar **inteligência artificial** e ferramentas digitais para transformar talentos em oportunidades reais de trabalho ou renda.
-
-This project helps to **map personal skills** and cross them with **market needs**, showing possible monetization paths.  
-The proposal is to use **artificial intelligence** and digital tools to transform talents into real work or income opportunities.
 
 ---
 
