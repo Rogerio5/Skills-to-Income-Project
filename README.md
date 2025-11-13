@@ -58,6 +58,7 @@ Checklist:
 ├── etapa3-monetizacao.md
 └── assets/
     └── capa-projeto.png
+```
 
 ---
 
@@ -71,12 +72,12 @@ Checklist:
 ## 🌍 Extras
 - **Blockchain & Web3:** explorar monetização com smart contracts e DApps.  
 - **Edição de vídeos:** criar conteúdo digital para atrair clientes.  
-- **Inglês intermediário:** acessar documentação internacional e ampliar alcance global.  
+- **Inglês:** acessar documentação internacional e ampliar alcance global.  
 
 ---
 
 ## ✨ Autor
-**Rogerio** — Estudante de Engenharia de Software, com experiência em Python, IA, BI e Blockchain.  
+**Rogerio** — Estudante de Engenharia de Software, com experiência em Python, IA, BI e Blockchain, entre outros...
 📌 Projetos relacionados:  
 - [Transfer Learning Project in Python](https://github.com/Rogerio5/Transfer-Learning-Project-in-Python-)  
 - [Projeto Power BI](https://github.com/Rogerio5/Projeto-Power-BI)  
