@@ -1,4 +1,4 @@
-# Skills-to-Income-Project.
+# Skills-to-Income-Project
 
 
 # 🧭 Identificando suas Habilidades que Podem ser Remuneradas
