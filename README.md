@@ -1,22 +1,12 @@
 
-# 🧭 Identificando suas Habilidades que Podem ser Remuneradas
+# Skills-to-Income-Project
 
-Este projeto ajuda a mapear suas habilidades pessoais e cruzá-las com as necessidades do mercado, mostrando caminhos de monetização possíveis.  
-A proposta é usar inteligência artificial e ferramentas digitais para transformar talentos em oportunidades reais de trabalho ou renda.
+![Capa do Projeto](assets/Remuneradas.png)
 
 ---
 
-## 📊 Etapas do Projeto
-
-### Etapa 1: Inventário de Habilidades
-
-# Skills-to-Income-Project
-
-
 # 🧭 Identificando suas Habilidades que Podem ser Remuneradas
 # 🧭 Identifying Your Monetizable Skills
-
-![Capa do Projeto](assets/Remuneradas.png)
 
 Este projeto ajuda a **mapear suas habilidades pessoais** e cruzá-las com as **necessidades do mercado**, mostrando caminhos de monetização possíveis.  
 A proposta é usar **inteligência artificial** e ferramentas digitais para transformar talentos em oportunidades reais de trabalho ou renda.
